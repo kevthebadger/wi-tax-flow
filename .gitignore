@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Production build outputs
+dist/
+dist-ssr/
+
+# Logs and system
+*.log
+.DS_Store
+
+# Agent workspaces & scratch files
+.agents/
+
+# Local env files
+.env
+.env.local
+.env.*.local
